@@ -1,0 +1,10 @@
+1,Bulevardul Unirii 45,65.2,85000.0,3
+2,Strada Muncii 12,48.5,62000.0,2
+3,Calea Dorobantilor 8,74.3,109000.0,3
+4,Strada Lalelelor 23,52.0,67000.0,2
+5,Strada Libertatii 100,85.0,120000.0,4
+6,Bulevardul Eroilor 5,60.0,78000.0,3
+7,Strada Aviatorilor 89,95.5,140000.0,5
+8,Strada Florilor 10,40.3,55000.0,2
+9,Bulevardul Revolutiei 77,70.0,98000.0,3
+10,Strada Crizantemelor 14,55.7,72000.0,2
