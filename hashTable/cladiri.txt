@@ -1,0 +1,5 @@
+1,Bulevardul Unirii 10,1977,120.5
+2,Strada Mihai Bravu 34,1990,85.3
+3,Calea Victoriei 100,1960,95.2
+4,Strada Lalelelor 7,1990,70.0
+5,Bulevardul Basarabia 14,1977,105.6
